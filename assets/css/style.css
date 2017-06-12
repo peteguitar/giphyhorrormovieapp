@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    }
+
+
+
+
+h1 {
+
+font-size: 300%;
+text-align: center;
+color: white;
+}
+
+.header {
+	width: 100%;
+    height: auto;
+  
+}
+
+
+p {
+    color: green;
+}
+
+#movie-form {
+  color: green;
+
+}
